@@ -1,7 +1,7 @@
 # Project 1
 Este es el proyecto de ejemplo para la actividad de Data de Navidad.
 
-El código muestra un resumen de datos de un dataframe:
+El código muestra un resumen de datos del fichero `vehicles.csv` que esta dentro del directorio `data`:
 * Number of rows.
 * Column's name.
 * Column's type.
